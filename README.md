@@ -1,43 +1,89 @@
+# jarinat kareem – Cybersecurity Analyst
 
-
-# 👩🏽‍💻 Jarinat Kareem –  Cybersecurity Analyst
-
-Hi there! 👋 I'm *Jarinat Kareem*, a passionate and hands-on Cybersecurity Analyst with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing, and I’m on a mission to make the digital world safer — one packet at a time.
+👋 Hello! I’m jarinat kareem, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
 ---
 
-## 🛡 My Cybersecurity Projects
+## 🛡 Project Highlights
 
-Here's a curated list of projects I’ve completed as part of my cybersecurity learning journey. Each project is designed to replicate real-world scenarios, using industry tools and best practices.
+### Lab Foundations
+- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
 
-### 🧪 Lab Environments
-- ✅ *Setting Up a Virtual Home Lab* (on macOS and Windows)
-- ☁️ *Cloud Home Lab Setup* (for scalable, remote testing)
 
-### 🔍 Reconnaissance & Threat Analysis
-- 🌐 *Footprinting* – Passive and active info gathering
-- 🐟 *Phishing Email Analysis* – Identifying spoofed domains, headers, and payloads
-- 🧫 *Vulnerability Assessment* – Using tools like OpenVAS, Nessus, and Nmap
+### Identity & Access Security
+- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
 
-### 🚨 Threat Detection & Monitoring
-- 📊 *SIEM Setup with Wazuh* – Centralized log analysis and alerting
-- 🔎 *Elastic SIEM Setup* – Kibana dashboards and threat hunting
-- 🛡 *Suricata IDS Setup* – Intrusion detection using signature-based rules
-- 🧲 *Honeypot Deployment* – Detecting and analyzing attacker behavior
+### Vulnerability & Risk Management
+- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
+- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto
+- **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations
 
-### 🔬 Malware & Exploit Analysis
-- 🧾 *Malicious PDF Analysis* – Dissecting payloads and embedded scripts
-- 🧟 *Malware Analysis* – Using tools like Ghidra and VirusTotal
+### Detection & Monitoring
+- **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk
+- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues
+- **Suricata IDS Deployment** – Signature-based intrusion detection
+- **Honeypot Deployment** – Capturing and analysing attacker behaviour
 
-### 🔐 Network Security
-- 🔒 *Setting Up a Personal VPN Server* – Secure remote connections using WireGuard/OpenVPN
+### Threat Hunting & Framework Mapping
+- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
 
-- get in touch
-- www.linkedin.com/in/jarinat-kareem-20a4b330
-- jarinat315@gmail.com
-- portfolio site()
+### Social Engineering Defence
+- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
+- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
 
-## 🧰 Tools & Skills
+### Offensive Security Simulations
+- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests
 
-- 🖥 VirtualBox, VMware, AWS Free Tier
-- 🧪 Wireshark, Nmap, Metas
+### Malware & Exploit Analysis
+- **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
+- **Malicious PDF Analysis** – Payload extraction and script dissection
+
+
+
+---
+
+## Tools & Skills
+
+- VirtualBox, VMware, AWS Free Tier
+- Wireshark, Nmap, Nessus, Nikto, sqlmap
+- Wazuh, Suricata, Elastic Stack, Splunk
+- Kali Linux, Windows Server, Ubuntu, pfSense
+- Git, GitHub, Markdown documentation
+
+---
+
+## Featured Repositories
+
+| Folder | Description | Link |
+|--------|-------------|------|
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
+| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+|
+
+---
+
+## Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/jarinat-kareem-20a4b3300  
+- **Email:** jarinat315@gmail.com
+- **Portfolio:** 
+
+---
+
+> “Cybersecurity is not only a discipline, it is a mindset.”
+
+Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a star.
+
+
+

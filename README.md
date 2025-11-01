@@ -57,6 +57,7 @@
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/jarinat15/Setting-up-a-Multi-VM-Cybersecurity-Lab.git) |
+|    Cloud Home Lab Setup (for scalable, remote testing) | [View Repo](#0
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/jarinat15/-creating-Security-policies-.git

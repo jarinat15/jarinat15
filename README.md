@@ -57,12 +57,9 @@
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/jarinat15/Setting-up-a-Multi-VM-Cybersecurity-Lab.git) |
-|    Cloud Home Lab Setup (for scalable, remote testing) | [View Repo](https://github.com/jarinat15/AWS---Cloud-Security-Project-Configuring-and-hardening-Cloud-console-in-AWS.gi) |
-
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/jarinat15/-creating-Security-policies-.git
-) |
+| 04-security-policy-dev | Crafting AUP, password,and ACL policies | [View Repo](https://github.com/jarinat15/-creating-Security-policies-.git) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
@@ -72,7 +69,7 @@
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-|
+| 14 Cloud Home Lab Setup (for scalable, remote testing) | [View Repo](https://github.com/jarinat15/AWS---Cloud-Security-Project-Configuring-and-hardening-Cloud-console-in-AWS.gi) |
 
 ---
 

@@ -67,7 +67,7 @@
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/jarinat15/Phishing-Email-Forensics.git) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/jarinat15/SQL-Injection-DDoS-Simulation.git) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/jarinat15/Malware-analysis---Static-and-dynamic-malware-triage.git) |
 | 14 Cloud Home | Lab Setup (for scalable, remote testing) | [View Repo](https://github.com/jarinat15/AWS---Cloud-Security-Project-Configuring-and-hardening-Cloud-console-in-AWS.gi) |
 
 ---

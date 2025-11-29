@@ -58,7 +58,6 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/jarinat15/Setting-up-a-Multi-VM-Cybersecurity-Lab.git) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password,and ACL policies | [View Repo](https://github.com/jarinat15/-creating-Security-policies-.git) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/jarinat15/Vulnerability-assessment-Network-and-Web-App-scanning-using-Nessus-and-Nmap.git) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/jarinat15/Network-monitoring-Log-Analysis--Splunk-Alert-Project-Detecting-Failed-Logins-on-Windows-Server-.git) |
